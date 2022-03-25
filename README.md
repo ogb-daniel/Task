@@ -1,4 +1,18 @@
-" # to run task1 run the command "yarn start in the terminal" "
-" # to run task2 run the command "yarn dev in the terminal" "
-" # to run task5 run the command "yarn start in the terminal" "
-"# Task" 
+
+## Task1
+
+In the project directory, you can run:
+
+### `yarn start`
+
+## Task2
+
+In the project directory, you can run:
+
+### `yarn dev`
+
+## Task5
+
+In the project directory, you can run:
+
+### `yarn start`
